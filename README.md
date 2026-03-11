@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **PACS**
 
-- 💬 Ask me about **reactjs, javascript, typescript**
+- 💬 Ask me about **java, spring boot, reactjs, javascript, typescript, docker**
 
 - 📫 How to reach me **glunkad26@gmail.com**
 
