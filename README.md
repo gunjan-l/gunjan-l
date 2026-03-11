@@ -20,7 +20,7 @@
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=glunkad&show_icons=true&locale=en" alt="glunkad" width="45%" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=glunkad&" alt="glunkad" width="50%" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=gunjan-l&" alt="gunjan" width="50%" /></p>
 
 <div>
 
